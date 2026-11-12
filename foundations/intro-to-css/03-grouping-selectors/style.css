@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.elemone,
+.elemtwo{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+.elemone {
+    color: white;
+    background-color: black;
+}
+.elemtwo {
+    background-color: yellow;
+}
